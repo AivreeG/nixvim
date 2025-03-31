@@ -129,6 +129,7 @@
     "robotframework_ls"
     "roc_ls"
     "rome"
+    "rustowl"
     "salt_ls"
     "scry" # deprecated and removed from nixpkgs
     "selene3p_ls"
